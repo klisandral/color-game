@@ -1,8 +1,8 @@
 # Color Game
-Color game made with html/css and javascript.
+Jogo feito com html/css and javascript.
 
 ## Objetivo
-Este site tem como objetivo o treino principalmente de javascript.
+Este site tem como objetivo principal o treino de javascript.
 
 # Jogo
 ## Modo Fácil
